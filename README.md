@@ -13,3 +13,5 @@ This project is a comprehensive data analysis study conducted in a Jupyter Noteb
 Test different branch fro learn gıthup branch  logıclly.Trials have been conducted.
 TEST BE COMING YOLO REALTY
 try one two three ..
+BAZI SEYLERI DENEMEYE DEVAM EDIYORUZ
+BAKALIM BASARACAKMIYIZ
